@@ -1,0 +1,1 @@
+START C:\Users\Administrator\AppData\Roaming\IDM\MAS_AIO.cmd /K-WindowsOffice
